@@ -2,6 +2,8 @@
 
 Team TechTitans Architectural Katas by O'Reilly, April 2024
 
+Final video presentation: https://www.youtube.com/watch?v=MH5BAMARAEg
+
 ## Team Members:
 
 ![TechTitans Team Theme](Assets/techtitans-katas-2024.png)
@@ -93,3 +95,22 @@ Microservices vs Monolithic architecture: [ADR-000](ADRs/000-architectural-appro
 ![Architecture Styles Worksheet](Assets/architecture-styles-worksheet.png)
 
 [Complete list of ADRs](ADRs/)
+
+## Future Scope
+
+### User Interfaces Expansion
+
+Our system's user interfaces have been tailored to meet the specific needs of fish farms, providing real-time monitoring, data visualization, and alerting capabilities. However, the versatility of our interfaces allows for potential expansion to other livestock sectors, such as cattles and other livestock. By extending our user interfaces, we can provide similar monitoring and management functionalities to livestock farmers, enabling them to monitor health metrics, track environmental conditions, and receive actionable insights for optimal livestock management.
+
+### Benefits of Expansion
+
+- **Comprehensive Livestock Monitoring**: Extend real-time monitoring and data collection capabilities to cover a wide range of livestock, enhancing overall farm management.
+  
+- **Unified Platform**: Create a unified platform that caters to multiple livestock sectors, simplifying data management and analysis for farmers.
+  
+- **Scalable Solutions**: Design interfaces that are scalable and adaptable to various farm sizes and livestock types, ensuring flexibility and usability.
+
+### Technological Adaptability
+
+Our system's architecture and design are inherently adaptable, making it feasible to integrate additional features and functionalities for different livestock sectors. By leveraging our existing infrastructure and expertise, we can seamlessly extend our user interfaces to accommodate the diverse needs of livestock farmers, providing a comprehensive solution for modern livestock management.
+

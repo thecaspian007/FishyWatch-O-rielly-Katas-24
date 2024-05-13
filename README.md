@@ -114,3 +114,13 @@ Our system's user interfaces have been tailored to meet the specific needs of fi
 
 Our system's architecture and design are inherently adaptable, making it feasible to integrate additional features and functionalities for different livestock sectors. By leveraging our existing infrastructure and expertise, we can seamlessly extend our user interfaces to accommodate the diverse needs of livestock farmers, providing a comprehensive solution for modern livestock management.
 
+
+## Semifinal Result
+We were among the 8 teams from around the world shortlisted for the finals
+
+![Semifinals](Assets/semifinal.png) 
+
+## Finals 
+We received the highest number of votes from both the juries and the audience for our design.
+
+![Finals](Assets/final.png) 
